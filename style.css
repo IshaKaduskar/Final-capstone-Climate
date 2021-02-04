@@ -1,0 +1,549 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background-color: rgb(10, 0, 68);
+    
+}
+
+
+.block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    justify-content: space-evenly;
+    height: 150px;
+    text-align: left;
+    font-size: 130%;
+    border: white;
+   
+    
+    
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#image {
+    width: 500px;
+    animation: dry 5s infinite;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#div1 {
+    padding: 100px;
+    width: 600px;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 200%;
+    width: 600px;
+  
+  
+}
+
+h5 {
+    font-size: 1.7em;
+    background-color: rgb(0, 0, 0);
+}
+
+#test {
+    text-align: center;
+    font-size: 300%;
+}
+
+#div3 {
+    width: 500px;
+    font-size: 100%;
+    text-align: center;
+}
+
+
+#head-how {
+    text-align: center;
+    font-size: 400%;
+    padding: 10px;
+}
+
+#more1 {
+    text-align: center;
+    font-size: 300%;
+}
+
+
+#p {
+    width: 600px;
+
+}
+
+
+
+.width {
+    width: 800px;
+    height: 1000px;
+    background-color: white;
+    
+
+}
+
+.width:hover {
+    border: 10px solid black;
+    
+   
+}
+
+#tap {
+    width: 590px;
+    height: 550px;
+}
+
+.bike {
+    width: 800px;
+}
+
+.center {
+    text-align: center;
+   
+}
+
+.right1 {
+    margin-left: auto;   
+    width: 700px;
+    background-color: white;
+}
+
+.right1:hover {
+    border: 10px solid black; 
+}
+
+
+
+
+body {
+    animation: hello 20s infinite;
+  
+ 
+}
+
+
+
+
+#button1 {
+    font-size: 350%;
+    text-align: center;
+}
+
+#yes {
+height: 200%;
+width: 200%;
+border-radius: 50%;
+}
+
+.one {
+    width: 100%;
+    height: 100%;
+    
+}
+
+#size {
+    width:40vw;
+    
+}
+
+#big {
+font-size: 400%;
+}
+
+#large {
+    font-size: 300%;
+}
+
+
+
+#aboutme {
+    width: 700px;
+    background-color: white;
+    height:505px;
+    width: 600px;
+    margin: 10px auto;
+}
+
+#moreme {
+    font-size: 20px;
+    background-color: white;
+    width: 700px;
+    margin: 10px auto;
+}
+
+
+
+#div4 {
+    display: inline-block;
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    background-color: rgb(0, 0, 0);
+}
+
+
+#mypic {
+    height: 350px;
+    width: 300px;
+    animation: pic 5s infinite;
+}
+
+@keyframes pic{
+    
+    80%{
+        height: 400px;
+        width: 350px;
+    }
+    100% {
+        height: 350px;
+    width: 300px;
+    }
+}
+
+
+#is {
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+
+header {
+    height: 500px;
+    
+    background-size: 100% 100%;
+
+}
+
+
+.center2 {
+    display: flex;
+    }
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+.moreabout {
+    
+    margin: 10px auto;
+    padding-left: 20em;
+}
+
+
+
+#donate2 {
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    margin: 10px auto;
+    font-size: 70px;
+}
+
+#donate {
+    background-color: white;
+    height: 150px;
+    width: 200px;
+    margin: 10px auto;
+}
+
+
+#center {
+    text-align: center;
+    padding-left: 300px;
+}
+
+#webabout {
+    margin: 10px auto;
+    font-size: 40px;
+}
+
+
+
+
+
+.whitediv {
+    background-color: white;
+    height: 2300px;
+    width: 1200px;
+    margin: 10px auto;
+    border: 5px solid black;
+}
+
+
+.whitediv2 {
+    background-color: white;
+    height: 1570px;
+    width: 1300px;
+    margin: 10px auto;
+    border: 5px solid black;
+}
+
+
+.whitediv3 {
+    margin: 10px auto;
+    background-color: white;
+    height: 3300px;
+    width: 1300px;
+    border: 5px solid black;
+}
+
+#windmill {
+    height: 350px;
+}
+
+#climatewhat {
+    margin: 10px auto;
+    padding-left: 20em;
+}
+
+.one {
+    height: 700px;
+    width: 750px;
+}
+
+#howwhite {
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    margin: 10px auto;
+    border: 5px solid black;
+}
+
+#herehow {
+    height: 250px;
+    width: 900px;
+    background-color: white;
+    margin: 10px auto;
+    text-align: center; 
+    padding-right: 200px;
+    border: 5px solid black;
+}
+
+#GitHubPic {
+    border-radius: 50%;
+}
+
+
+.current {
+background-color: white;
+color: black;
+border: 5px solid black;
+}
+
+.hoverdiv:hover {
+    height: 2000px;
+    width: 2000px;
+}
+
+#whitediv6 {
+background-color: white;
+width: 500px;
+margin: 10px auto;
+font-size: 50px;
+border: 5px solid black;
+}
+
+#morepages {
+    width: 600px;
+    margin: 10px auto;
+    background-color: white; 
+    border: 5px solid black;
+}
+
+#hereare {
+    font-size: 3em;
+}
+
+#list {
+    height: 500px;
+    border: 5px solid black;
+}
+
+#animated {
+    height: 400px;
+    width: 500px;
+    background-color: blue;
+    animation: hi 4s infinite;
+    margin: 10px auto;
+    
+    
+}
+
+ @keyframes hi{
+   
+    
+    50% {
+    
+       border-radius: 50%;
+    }
+    
+    100% {
+        background-color: red;
+    }
+}  
+
+#ahref {
+    transition: all 0.5s;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+}
+
+#ahref:hover{
+    background-color: white;
+    color: black;
+    font-size: 150px;
+}
+
+.leaf img{
+    width: 50px;
+    animation: bubble 5s linear infinite;
+}
+
+.leaf{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+
+}
+ 
+ @keyframes bubble {
+    0%{
+        transform: translateY(0);
+        opacity: 0;
+    }
+    0%{
+        
+        opacity: 1;
+    }
+    0%{
+        
+        opacity: 1;
+    }
+    0%{
+        transform: translateY(-80vh);
+        opacity: 0;
+    }
+    
+}
+
+
+.leaf img:nth-child(1){
+    animation-delay: 2s;
+}
+.leaf img:nth-child(2){
+    animation-delay: 1s;
+}
+.leaf img:nth-child(3){
+    animation-delay: 3s;
+}
+.leaf img:nth-child(4){
+    animation-delay: 6.5s;
+}
+.leaf img:nth-child(5){
+    animation-delay: 3s;
+}
+.leaf img:nth-child(6){
+    animation-delay: 3s;
+}
+.leaf img:nth-child(7){
+    animation-delay: 7s;
+} 
+
+
+/* 
+.leafbois img{
+    width: 50px;
+    animation: leafbois 5s linear infinite;
+    
+}
+
+
+.leafbois {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+   
+}
+
+
+@keyframes leafbois{
+    0%{
+        transform: translateY(0);
+        opacity: 0;
+    }
+    0%{
+       opacity: 1;
+
+    }
+    0%{
+        opacity: 1;
+
+    }
+    0%{
+        transform: translateY(-80vh);
+        opacity: 0;
+    }
+
+}
+
+.leafbois img:nth-child(1) {
+    animation-delay: 2s;
+}
+.leafbois img:nth-child(2) {
+    animation-delay: 3.5s;
+}
+.leafbois img:nth-child(3) {
+    animation-delay: 1s;
+}
+.leafbois img:nth-child(4) {
+    animation-delay: 4s;
+}
+.leafbois img:nth-child(5) {
+    animation-delay: 5s;
+} */ */
